@@ -15,6 +15,26 @@
     background-size: cover;
 }
 
+.lol{
+    display: table;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    background: url('https://i.pinimg.com/originals/60/d7/00/60d7000ee500375f42e8b70fcc8644e2.jpg') no-repeat bottom center scroll;
+    background-position: 30% 45%;
+    background-size: cover; 
+}
+
+.hp{
+    display: table;
+    width: 100%;
+    height: 100vh;
+    color: white;
+    background: url('https://s2.glbimg.com/hnXe-hKaikOW7YmHw6O7uR8Ij54=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2017/06/26/harrypotter.jpg') no-repeat bottom center scroll;
+    background-position: 30% 45%;
+    background-size: cover;
+}
+
 button{
     height: 40px;
     width: 150px;
@@ -70,11 +90,14 @@ button:hover{
 .card-back{
     width: 100%;
     height: 100%; 
-    padding: 20px;
     position: absolute;
     border-radius: 5px;
     background-color: #ffffff;
     backface-visibility: hidden;
+}
+
+.card-mario {
+    padding: 20px;
 }
 
 .card-front{
