@@ -26,13 +26,7 @@
 }
 
 .hp{
-    display: table;
-    width: 100%;
-    height: 100vh;
-    color: white;
-    background: url('https://s2.glbimg.com/hnXe-hKaikOW7YmHw6O7uR8Ij54=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2017/06/26/harrypotter.jpg') no-repeat bottom center scroll;
-    background-position: 30% 45%;
-    background-size: cover;
+   background-color: rgb(5, 5, 5);
 }
 
 button{
